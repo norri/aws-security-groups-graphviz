@@ -1,0 +1,15 @@
+{
+  "name": "aws-security-groups-graphviz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.610.0",
+    "viz.js": "^2.1.2"
+  }
+}
